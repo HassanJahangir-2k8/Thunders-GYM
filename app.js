@@ -33,3 +33,5 @@ infoIcon.addEventListener('click', () => {
         infoTooltip.style.display = 'block';
     }
 });
+
+
